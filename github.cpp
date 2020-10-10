@@ -1,5 +1,5 @@
 //windows sliding
-//We can find max sum of four continous number through this technique in o(n) complexity.
+//We can find maximum sum of four continous number through this technique in o(n) complexity.
 int maxSum(int arr[], int n, int k) 
 { 
     // Initialize result 
